@@ -1,3 +1,7 @@
+# Version
+* Checkout `3.1.3-1`
+* Add build.sh, release.sh
+
 # Debugger for the .NET Core Runtime
 
 The NetCoreDbg debugger implements [GDB/MI](https://sourceware.org/gdb/onlinedocs/gdb/GDB_002fMI.html)
